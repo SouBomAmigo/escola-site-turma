@@ -53,9 +53,22 @@ body{
 
 
 .Estudantes-imagem{
-    width: 10%;
+    width: 45%;
+}
+ 
+.Estudante-icone{
+    width: 26px;
 }
 
-.Estudane-icone{
-    width: 10%;
+.estudante-divs{
+ text-align: center;   
+}
+
+.Estudantes-titulo{
+text-align: center;
+}
+
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
